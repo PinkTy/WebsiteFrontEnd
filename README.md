@@ -1,6 +1,6 @@
 # chat-app
 
-> Assignment2 front-end
+> My venue website front-end
 
 ## Build Setup
 
